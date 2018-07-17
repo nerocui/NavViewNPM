@@ -1,5 +1,10 @@
 # Fluent Navigation View React
-# 
+A react component for an acrylic effect side menu. Support Dark and light theme.
+### Dark Theme
+![](https://github.com/nerocui/screenshots/blob/master/NPM%20Package/dark.gif?raw=true)
+### Light THeme
+![](https://github.com/nerocui/screenshots/blob/master/NPM%20Package/light.gif?raw=true)
+
 ## Installation
 ```
 npm install --save fluent-nav-view-react
