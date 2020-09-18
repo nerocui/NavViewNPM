@@ -3,7 +3,6 @@ import posed from "react-pose";
 import Delay from 'react-delay';
 import styled from 'styled-components';
 import { tween } from "popmotion";
-import hover from 'hover.css';
 
 //HamBtn
 const Bar1 = posed.div({
